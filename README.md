@@ -1,7 +1,11 @@
 Project Portfolio Exploratoty Data Analysis
+
 EDA is Exploratory and Explanatory Data Analysis. I'm using iris dataset fro sklearn. I'm using The dataset from this link : https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris
+
 https://en.wikipedia.org/wiki/Iris_flower_data_set
+
 About dataset : The Iris Flower Dataset is a small collection of data about iris flowers . It includes information on three types of iris flowers: Iris setosa, Iris versicolor, and Iris virginica. For each flower, the dataset contains four measurements: the length and width of the petals and sepals. This dataset is popular in machine learning and statistics for learning how to classify different types of flowers based on their features. It is simple and great for beginners to practice data analysis!
+
 This dataset contains information about flowers with the following attributes:
 Id: Unique identifier for each entry.
 Sepal Length (cm): Length of the sepal in centimeters.
