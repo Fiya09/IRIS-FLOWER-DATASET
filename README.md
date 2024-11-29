@@ -1,6 +1,6 @@
 Project Portfolio Exploratoty Data Analysis
 
-EDA is Exploratory and Explanatory Data Analysis. I'm using iris dataset fro sklearn. I'm using The dataset from this link : https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris
+EDA is Exploratory and Explanatory Data Analysis. I'm using iris dataset from sklearn. I'm using The dataset from this link : https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris
 
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 
