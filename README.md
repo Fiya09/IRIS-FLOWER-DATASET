@@ -10,14 +10,13 @@ It includes information on three types of iris flowers: Iris setosa, Iris versic
 
 For each flower, the dataset contains four measurements: the length and width of the petals and sepals. 
 
-This dataset is popular in machine learning and statistics for learning how to classify different types of flowers based on their features. I
+This dataset is popular in machine learning and statistics for learning how to classify different types of flowers based on their features. 
 
-t is simple and great for beginners to practice data analysis!
+It is simple and great for beginners to practice data analysis!
 
 This dataset contains information about flowers with the following attributes:
 
 Id: Unique identifier for each entry.
-
 Sepal Length (cm): Length of the sepal in centimeters.
 Sepal Width (cm): Width of the sepal in centimeters.
 Petal Length (cm): Length of the petal in centimeters.
